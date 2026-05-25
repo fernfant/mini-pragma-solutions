@@ -1,10 +1,11 @@
-# mini-pragma — capstone solution (private)
+# mini-pragma — capstone solution
 
 Reference implementation of the [Lesson 6 capstone](https://github.com/fernfant/mini-pragma/blob/main/course/06_capstone.md)
-from [fernfant/mini-pragma](https://github.com/fernfant/mini-pragma).
+from [**fernfant/mini-pragma**](https://github.com/fernfant/mini-pragma) — a
+hello-world Transformer course based on Revolut's PRAGMA paper.
 
-**Keep this repo private.** It's the answer key for the capstone — for the
-parent (or teacher) to peek at when the student is stuck.
+> 👉 **Doing the capstone?** Try it yourself before reading this. Peek only
+> when you're truly stuck — the learning is in the struggle.
 
 ## Files
 
